@@ -64,7 +64,5 @@ public class Main {
                 }
             }
         }
-        // /Users/petermcgill/Desktop/Programming-Assignment-Data
-        // /Users/petermcgill/Desktop/Programming-Assignment-Output
     }
 }
